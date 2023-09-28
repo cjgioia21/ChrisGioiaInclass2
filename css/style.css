@@ -1,0 +1,11 @@
+/*Chris Gioia 987654*/
+body{
+    font : normal normal normal 12px/1.5 Verdana, Arial, Helevtica;
+    height: 100vh;
+    width: 100vw;
+    background-color: hsla(290, 65%, 80%, 0.710)
+}
+h2{
+    font-size: 2rem;
+    color: #fa9;
+}
